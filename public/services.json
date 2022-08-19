@@ -1,0 +1,22 @@
+[
+    {
+        "img": "https://i.ibb.co/DKQSZVT/features-icon-1.png",
+        "service": "Business Planning",
+        "description": "We have the best plan for you to save more money"
+    },
+    {
+        "img": "https://i.ibb.co/GMMJsZg/features-icon-2.png",
+        "service": "Lifetime Access",
+        "description": "After buying this course you'll get lifetime access. So no panic if you can't attend in any live class"
+    },
+    {
+        "img": "https://i.ibb.co/WgRccsx/features-icon-3.png",
+        "service": "Self Development",
+        "description": "Along with teaching we will help you on your self development process by showing you the perfect path"
+    },
+    {
+        "img": "https://i.ibb.co/8Bs0Rk4/features-icon-4.png",
+        "service": "Online Tutoring",
+        "description": "This course is online based course. The benefit on enrolling to our online course is you can join to our class from anywhere and you can check our classess whenever you want since you will get the lifetime access after buying our plan"
+    }
+]
