@@ -1,0 +1,23 @@
+[
+    {
+        "image": "https://i.ibb.co/W064GLx/category-1.jpg",
+        "name": "Data & Analytics",
+        "duration": "3 hr 20 min",
+        "lectures": "21 lectures",
+        "level": "Beginer"
+    },
+    {
+        "image": "https://i.ibb.co/mGBCHMF/category-2.jpg",
+        "name": "Business Marketing",
+        "duration": "35 hr 28 min",
+        "lectures": "73 lectures",
+        "level": "Beginer"
+    },
+    {
+        "image": "https://i.ibb.co/9TNFzGd/category-3.jpg",
+        "name": "Web Development",
+        "duration": "21 hr 40 min",
+        "lectures": "82 lectures",
+        "level": "Advance"
+    }
+]
