@@ -2,6 +2,7 @@ import React from 'react';
 import auth from '../../firebase.init';
 import { useSignInWithEmailAndPassword, useSignInWithGoogle } from 'react-firebase-hooks/auth';
 import { useForm } from "react-hook-form";
+import { useNavigate } from "react-router-dom";
 import swal from 'sweetalert';
 const Login = () => {
     const [
@@ -14,6 +15,7 @@ const Login = () => {
 
     const { register, formState: { errors }, handleSubmit } = useForm();
 
+    const navigate = useNavigate();
     const onSubmit = (data) => {
         signInWithEmailAndPassword(data.email, data.password);
         console.log(data)
@@ -34,6 +36,7 @@ const Login = () => {
                 }
             );
         }
+        navigate('/');
     }
     return (
         <div className='my-10 w-1/2 mx-auto'>
