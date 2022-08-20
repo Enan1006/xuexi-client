@@ -8,9 +8,6 @@ const Service = (props) => {
             <div class="card-body">
                 <h2 class="card-title">{service}</h2>
                 <p>{description}</p>
-                <div class="card-actions justify-end">
-                    <button class="btn btn-primary">Buy Now</button>
-                </div>
             </div>
         </div>
     );

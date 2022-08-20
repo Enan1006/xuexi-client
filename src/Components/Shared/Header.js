@@ -37,17 +37,15 @@ const Header = () => {
                         {menu}
                     </ul>
                 </div>
-                <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+                <Link to='/' class="btn btn-ghost normal-case text-xl"><i className="fa-solid fa-books"></i>Xuexi</Link>
             </div>
             <div class="navbar-center hidden lg:flex">
                 <ul class="menu menu-horizontal p-0">
                     {menu}
                 </ul>
             </div>
-            <div class="navbar-end">
-                <a class="btn">Get started</a>
-            </div>
-        </div>
+
+        </div >
     );
 };
 

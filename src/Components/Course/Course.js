@@ -12,9 +12,6 @@ const Course = (props) => {
                     <span><i className="fa-solid fa-video text-blue-600 mr-2"></i>{lectures}</span>
                     <span><i className="fa-solid fa-list text-blue-600 mr-2"></i>{level}</span>
                 </div>
-                <div class="card-actions justify-end">
-                    <button class="btn btn-primary">Buy Now</button>
-                </div>
             </div>
         </div>
     );
