@@ -1,5 +1,7 @@
 {
-    "projects": {
-        "default": "xuexi-client"
-    }
+  "projects": {
+    "default": "xuexi-c7bd8",
+    "production": "xuexi-c7bd8"
+  },
+  "targets": {}
 }
